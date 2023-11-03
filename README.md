@@ -254,20 +254,6 @@ GET /api/vo/subscriptions
 ### 😄 Response for Viewing Subscription History:
 ![Screenshot 2023-11-02 at 5 46 33 PM](https://github.com/andilovetto/tea_and_me/assets/128431917/4c83d3d6-fc90-4e0c-9aa3-5c0fe4092203)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## **Contributors** ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -275,7 +261,7 @@ GET /api/vo/subscriptions
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/andilovetto"><img src="https://avatars.githubusercontent.com/u/128431917?s=96&v=4" width="100px;" alt=""/><br /><sub><b>Andi(she/her)</b></sub></a><br /><a href="https://github.com/Daniel-Gallagher92/label_lens_be/commits?author=andilovetto" title="Code">💻</a> <a href="https://github.com/Daniel-Gallagher92/label_lens_be/pulls?q=is%3Apr+author%3Aandilovetto" title="Reviewed Pull Requests">👀</a>
+    <td align="center"><a href="https://github.com/andilovetto"><img src="https://avatars.githubusercontent.com/u/128431917?s=96&v=4" width="100px;" alt=""/><br /><sub><b>Andi(she/her)</b></sub></a><br /><a href="https://github.com/andilovetto/tea_and_me/commits?author=andilovetto" title="Code">💻</a>
      </td>
      </td>
     </tr>
